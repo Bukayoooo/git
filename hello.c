@@ -11,7 +11,7 @@ int main() {
     printf("hello git in dev!\n");
 //>>>>>>> dev
 
-    func1();
+    func1(); //
 
     return 0;
 }
