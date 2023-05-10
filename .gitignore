@@ -1,2 +1,5 @@
 *.o
 *.exe
+# CLion project files
+.idea
+cmake-build-*
