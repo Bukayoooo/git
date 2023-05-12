@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 void func1() {
-    printf("func1 written on windows!");
+    printf("func1 written on clion!");
 }
 
 
 void func3() {
-
+    printf("func1 written on clion!");
 }
 
 int main() {
