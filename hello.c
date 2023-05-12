@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 void func1() {
-    printf("func1 written on windows!");
+    printf("func1 written on windows!\n");
 }
 
+void func2() {
+    print("func2 written on vi!\n");
+}
 
 void func3() {
 
