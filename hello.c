@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void func1() {
-    printf("func1 written on windows!\n");
+    printf("func1 written on clion!");
 }
 
 void func2() {
@@ -9,7 +9,7 @@ void func2() {
 }
 
 void func3() {
-
+    printf("func1 written on clion!");
 }
 
 int main() {
